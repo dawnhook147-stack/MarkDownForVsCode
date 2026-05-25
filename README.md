@@ -41,6 +41,8 @@
 | `Ctrl+Alt+N` | 重新编号（当前文件） | 自动计算序号/总数 |
 | `Ctrl+Shift+Alt+N` | 重新编号（整个工作区） | 跨文件统一编号 |
 | `Ctrl+Shift+Alt+R` | 生成 Registry 文档 | 输出 `EM_MARK_REGISTRY.md` |
+| //[ | 快捷注释 |
+| //# | 快捷注释 |
 
 ### 3.3 状态栏
 - 显示当前文件的组数和配对数
@@ -50,5 +52,6 @@
 - 列出当前文件所有 mark pair
 - 支持模糊搜索
 - 点击跳转到对应行
+<img width="932" height="186" alt="image" src="https://github.com/user-attachments/assets/efe06ebd-1ccb-4770-8aa2-d48e24fbcaf5" />
 
 <img width="1572" height="734" alt="image" src="https://github.com/user-attachments/assets/2dbb5d6e-a722-44d9-915e-dab760627626" />
