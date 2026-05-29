@@ -41,6 +41,8 @@
 | `Ctrl+Alt+N` | 重新编号（当前文件） | 自动计算序号/总数 |
 | `Ctrl+Shift+Alt+N` | 重新编号（整个工作区） | 跨文件统一编号 |
 | `Ctrl+Shift+Alt+R` | 生成 Registry 文档 | 输出 `EM_MARK_REGISTRY.md` |
+| `Ctrl+Shift+Alt+M` | 设置最大编号| 设置MarkDown的最大编号
+| `Ctrl+Shift+Alt+W` | 扫描工作区 |重新扫描MarkDown的编号遍历到最大
 | //[ | 快捷注释 |
 | //# | 快捷注释 |
 
